@@ -38,7 +38,10 @@ package com.imarkofu.designpatterns;
  * 		详见FactoryMethodPatterns.java
  * 2、抽象工厂模式（AbstractFactory）
  * 		详见AbstractFactoryPatterns.java
- * 3、
+ * 3、单例模式（Singleton）
+ * 		详见SingletonPatterns.java
+ * 4、建造者模式（Builder）
+ * 		
  * @author Administrator
  *
  */
