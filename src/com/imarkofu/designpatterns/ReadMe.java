@@ -41,7 +41,9 @@ package com.imarkofu.designpatterns;
  * 3、单例模式（Singleton）
  * 		详见SingletonPatterns.java
  * 4、建造者模式（Builder）
- * 		
+ * 		详见BuilderPatterns.java
+ * 5、原型模式（Prototype）
+ * 		详见PrototypePatterns.java
  * @author Administrator
  *
  */
