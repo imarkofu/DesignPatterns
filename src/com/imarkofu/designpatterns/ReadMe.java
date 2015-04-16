@@ -48,7 +48,10 @@ package com.imarkofu.designpatterns;
  * 至此五种创建型模式就告一段落了，下面接着是七种结构型模式
  * 6、适配器模式（Adapter）
  * 		详见AdapterPatterns.java
- * 
+ * 7、装饰模式（Decorator）
+ * 		详见DecoratorPatterns.java
+ * 8、代理模式（Proxy）
+ * 		详见ProxyPatterns.java
  * @author Administrator
  *
  */
