@@ -44,6 +44,11 @@ package com.imarkofu.designpatterns;
  * 		详见BuilderPatterns.java
  * 5、原型模式（Prototype）
  * 		详见PrototypePatterns.java
+ * 
+ * 至此五种创建型模式就告一段落了，下面接着是七种结构型模式
+ * 6、适配器模式（Adapter）
+ * 		详见AdapterPatterns.java
+ * 
  * @author Administrator
  *
  */
