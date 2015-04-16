@@ -52,6 +52,9 @@ package com.imarkofu.designpatterns;
  * 		详见DecoratorPatterns.java
  * 8、代理模式（Proxy）
  * 		详见ProxyPatterns.java
+ * 9、外观模式（Facade）
+ * 		详见FacadePatterns.java
+ * 
  * @author Administrator
  *
  */
