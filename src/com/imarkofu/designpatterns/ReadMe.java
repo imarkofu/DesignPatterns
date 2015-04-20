@@ -54,7 +54,10 @@ package com.imarkofu.designpatterns;
  * 		详见ProxyPatterns.java
  * 9、外观模式（Facade）
  * 		详见FacadePatterns.java
- * 
+ * 10、桥接模式（Bridge）
+ * 		详见BridgePatterns.java
+ * 11、组合模式（Composite）
+ * 		详见CompositePatterns.java
  * @author Administrator
  *
  */
