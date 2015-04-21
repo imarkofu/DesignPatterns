@@ -58,6 +58,15 @@ package com.imarkofu.designpatterns;
  * 		详见BridgePatterns.java
  * 11、组合模式（Composite）
  * 		详见CompositePatterns.java
+ * 12、享元模式（Flyweight）
+ * 		详见FlyweightPatterns.java
+ * 至此七种结构模式就告一段落了，下面是十一种行为型模式
+ * 13、策略模式（Strategy）
+ * 		详见StrategyPatterns.java
+ * 14、模版方法模式（Template Method）
+ * 		详见TemplateMethodPatterns.java
+ * 
+ * 
  * @author Administrator
  *
  */
