@@ -65,7 +65,12 @@ package com.imarkofu.designpatterns;
  * 		详见StrategyPatterns.java
  * 14、模版方法模式（Template Method）
  * 		详见TemplateMethodPatterns.java
- * 
+ * 15、观察者模式（Observer）
+ * 		详见ObserverPatterns.java
+ * 16、迭代子模式（Iterator）
+ * 		详见IteratorPatterns.java
+ * 17、责任链模式（ChainOfResponsibility）
+ * 		详见ChainOfResponsibilityPatterns.java
  * 
  * @author Administrator
  *
