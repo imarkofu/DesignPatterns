@@ -71,6 +71,18 @@ package com.imarkofu.designpatterns;
  * 		详见IteratorPatterns.java
  * 17、责任链模式（ChainOfResponsibility）
  * 		详见ChainOfResponsibilityPatterns.java
+ * 18、命令模式（Command）
+ * 		详见CommandPatterns.java
+ * 19、备忘录模式（Memento）
+ * 		详见MementoPatterns.java
+ * 20、状态模式（State）
+ * 		详见StatePatterns.java
+ * 21、访问者模式（Visitor）
+ * 		详见VisitorPatterns.java
+ * 22、中介者模式（Mediator）
+ * 		详见MediatorPatterns.java
+ * 23、解释器模式（Interpreter）
+ * 		详见InterpreterPatterns.java
  * 
  * @author Administrator
  *
